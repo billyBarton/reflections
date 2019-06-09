@@ -4,9 +4,11 @@ It is necessary as a first step in git version-control so that all changes made 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+The staging area allows changes in multiple files to be compiled in one commit.  If a fix requires several files then it can consolidate the number of commits, ensuring that each commit is related to a logical change.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+All files that have been changed that are related to the logical issue are added to the staging area.  From there, git commit will assign 1 id.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
