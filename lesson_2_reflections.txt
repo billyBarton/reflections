@@ -1,6 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates a repository that tracks changes.
-It is necessary as a first step in git version-control so that all changes made to the project can be tracked.
+It is necessary as a first step in git version-control so that all changes made to the project can be tracked. 
+Test
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
