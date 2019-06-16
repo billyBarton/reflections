@@ -13,11 +13,14 @@ All files that have been changed that are related to the logical issue are added
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 Branches would be helpful when 
-1) an experimental change is being introduced; 
-2) multiple developers are working and we want to introduce their changes when they have finished even if others have not;
+1) an experimental change is being introduced and we're not sure it will work. 
+2) multiple developers are working on different features.  We may be able to introduce their feature without waiting for others to finish.
 3) Developers are working on something and a hotfix is required.  A branch would allow others to continue working while the bug is fixed.
+4) Can compartmentalize work.  Work on one thing, then switch to something else.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams help me to see the various branches and to see which commits are on which branch, and if any commits are not reachable.
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
