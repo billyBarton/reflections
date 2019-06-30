@@ -29,3 +29,5 @@ The diagram helps to visually represent how the branches are structured.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pros: Git has a record of all commits and integrates them into one branch.  Developers don't have to cut and paste code from one file to the other.  This saves time and prevents transcription errors.  Also git tracks the commits automatically when merging.
+Cons:  When the two branches have changed the same code, Git cannot resolve it and returns a conflict.  Developers have to resolve this manually.  However, Git marks the differences in the code with less than signs, making them easy to locate and resolve.
