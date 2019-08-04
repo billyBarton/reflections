@@ -22,7 +22,7 @@ and therefore credits the originator, it simultaneously clones the repository wi
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+I can see the state of a project if I'm offline, continue to work on it and commit (document) my changes.  I can then merge locally before pushing to remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
