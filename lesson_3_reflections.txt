@@ -33,5 +33,8 @@ Without GitHub, I would have to post my files in a shared folder or drive.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+1.  When collaborating with others and developing new features
+2.  when experimenting 
+3.  disadvantage is that there are more steps.  
+4.  if the changes are small, there may be no need to make a new branch.
 
